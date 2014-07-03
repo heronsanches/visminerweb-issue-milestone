@@ -39,7 +39,10 @@ api_cfg_remote.put(VisMiner.REMOTE_REPOSITORY_PASSWORD, "");<b>your password in 
 <h5> 4- executing the visualizations</h5>
 after instructions from 1 to 3 put these url below in your browser for to visualize visualizations<br>
 the port 8080 is default for TomCat v7<br><br>
+![Alt text](https://github.com/heronsanches/visminerweb-issue-milestone/blob/97e39202f6f6cab30e4eba0208eed4fb2970beac/VisualizationsWeb-Visminer/visualizations-images/labelQuantity.png?raw=true "Optional Title")<br>
 http://localhost:8080/VisualizationsWeb-Visminer/labelIssues<br>
+
+![Alt text](https://github.com/heronsanches/visminerweb-issue-milestone/blob/97e39202f6f6cab30e4eba0208eed4fb2970beac/VisualizationsWeb-Visminer/visualizations-images/ocCorrelation.png?raw=true "Optional Title")<br>
 http://localhost:8080/VisualizationsWeb-Visminer/labelIssues_OpenedClosed_byLabel<br>
 
 
