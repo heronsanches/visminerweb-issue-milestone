@@ -1,4 +1,4 @@
-package org.visminer.web.json.controller;
+package org.visminer.web.controller;
 
 import java.io.IOException;
 import java.util.ArrayList;
